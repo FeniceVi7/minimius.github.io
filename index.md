@@ -4,7 +4,7 @@
 ### [Fraud Detection Model](https://minimius.notion.site/Fraud-Detection-Model-13717dec8f31814aa396c6e9a702ca61)
 
 **Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn, Random Forest, Logistic Regression  
-**Dataset:** [Synthetic Credit Card Fraud Dataset (Kaggle)](https://www.kaggle.com/datasets/ealaxi/paysim1)
+**Dataset:** [Synthetic Credit Card Fraud Dataset (Kaggle)]([https://www.kaggle.com/datasets/ealaxi/paysim1](https://www.kaggle.com/datasets/kartik2112/fraud-detection))
 
 This project simulates a real-world fraud detection scenario by applying machine learning algorithms to synthetic financial transaction data. The dataset mimics mobile money transactions, including both legitimate and fraudulent activity.
 
