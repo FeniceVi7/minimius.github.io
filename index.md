@@ -1,7 +1,7 @@
 ## Portfolio
 
 
-### [Fraud Detection Model](https://minimius.notion.site/Fraud-Detection-Model-13717dec8f31814aa396c6e9a702ca61)
+### [Fraud Detection Model](https://github.com/FeniceVi7/minimius.github.io/blob/main/fraud-detection/GW%20Model.ipynb)
 
 **Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn, Random Forest, Logistic Regression  
 **Dataset:** [Credit Card Transactions Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
