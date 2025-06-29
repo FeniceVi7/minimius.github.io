@@ -3,7 +3,7 @@
 
 ### 🔍 [Fraud Detection Model](https://github.com/FeniceVi7/minimius.github.io/blob/main/fraud-detection/GW%20Model.ipynb)
 
-**Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn, Random Forest, Logistic Regression  
+**Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn 
 **Dataset:** [Credit Card Transactions Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 This project explores the classification of fraudulent online transactions using basic machine learning models. The dataset includes anonymized features for 500,000 credit card transactions labeled as fraud or non-fraud.
