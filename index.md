@@ -17,7 +17,7 @@ This project simulates a real-world fraud detection scenario by applying machine
 📄 [Report Summary (PDF)](https://file.notion.so/f/f/ce3a6585-2032-47c5-9704-98199b5536d8/4dc63e93-94a2-4533-a1c4-f32732815f2a/Report_Summary.pdf?table=block&id=1fa17dec-8f31-80b0-a877-c113294eef82&spaceId=ce3a6585-2032-47c5-9704-98199b5536d8&expirationTimestamp=1751220000000&signature=qyCC4lDyfzl9zHJkWTqApzuT5cxwX5fnHfg7ZuAQ1Oc&downloadName=Report+Summary.pdf)
 
 ---
-### 📊 [Marketing Analytics](https://minimius.notion.site/Marketing-Analytics-13717dec8f3181b4be39f0cc036b1675)
+### 📊 [Marketing Analytics (Excel)](https://minimius.notion.site/Marketing-Analytics-13717dec8f3181b4be39f0cc036b1675)
 
 **Tech Stack:** Microsoft Excel, Pivot Tables, Statistical Testing, Regression, Dashboard Design  
 **Datasets:** Simulated business cases (survey, conversion, and media data) provided for course-based analytics challenges
