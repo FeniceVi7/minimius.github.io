@@ -1,17 +1,17 @@
 # Portfolio
 
 
-### 🔍 [Fraud Detection Model](https://github.com/FeniceVi7/minimius.github.io/blob/main/fraud-detection/GW%20Model.ipynb)
+### 🔍 [Fraud Detection Model](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-**Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn 
+**Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn  
 **Dataset:** [Credit Card Transactions Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 This project explores the classification of fraudulent online transactions using basic machine learning models. The dataset includes anonymized features for 500,000 credit card transactions labeled as fraud or non-fraud.
 
-- Conducted data cleaning and feature inspection to prepare for modeling
-- Visualized class imbalance and model performance with charts
-- Trained and compared Logistic Regression, Decision Tree, Random Forest classifiers and XGBoost models.
-- Evaluated models using accuracy, confusion matrix, precision, recall, and F1-score
+- Conducted data cleaning and feature inspection to prepare for modeling  
+- Visualized class imbalance and model performance with charts  
+- Trained and compared Logistic Regression and Decision Tree classifiers  
+- Evaluated models using accuracy, confusion matrix, precision, recall, and F1-score  
 - Presented findings in a clear PDF report with supporting visualizations
 
 📄 [Report Summary (PDF)](https://file.notion.so/f/f/ce3a6585-2032-47c5-9704-98199b5536d8/4dc63e93-94a2-4533-a1c4-f32732815f2a/Report_Summary.pdf?table=block&id=1fa17dec-8f31-80b0-a877-c113294eef82&spaceId=ce3a6585-2032-47c5-9704-98199b5536d8&expirationTimestamp=1751220000000&signature=qyCC4lDyfzl9zHJkWTqApzuT5cxwX5fnHfg7ZuAQ1Oc&downloadName=Report+Summary.pdf)
